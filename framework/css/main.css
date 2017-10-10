@@ -1,5 +1,5 @@
-* {
-    border: 1px solid red !important;
+/** {
+      border: 1px solid black !important;
 }
 
 * {
@@ -7,6 +7,9 @@
     -moz-box-sizing: border-box;
     -ms-box-sizing: border-box;
     box-sizing: border-box;
+}*/
+body {
+font-family: 'Roboto', sans-serif;
 }
 
 .grid {
@@ -17,8 +20,8 @@
 
 .row {
     width: 100%;
-    margin-bottom: 20px;
     display: flex;
+    flex-wrap: wrap;
 }
 
 .col-1 {
@@ -67,4 +70,23 @@
 
 .col-12 {
     width: 100%;
+}
+
+.align-right {
+  text-align: right;
+}
+
+h1 {
+  font-size: 3em;
+}
+
+.material-icons {
+  font-size: 9em;
+}
+.name {
+  height: 4.5em;
+}
+
+.title{
+  font-size: 1em;
 }
