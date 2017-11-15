@@ -10,6 +10,7 @@
 }*/
 body {
 font-family: 'Roboto', sans-serif;
+color: #2d3c49;
 }
 
 .grid {
@@ -80,13 +81,27 @@ h1 {
   font-size: 3em;
 }
 
+h3 {
+  font-size: 2em;
+  color: #7d97ad;
+
+}
+
 .material-icons {
   font-size: 9em;
+  color: #02b3e4;
 }
 .name {
   height: 4.5em;
 }
 
-.title{
-  font-size: 1em;
+.featured-work{
+  height: 75px;
+  padding-left: 10px;
+}
+
+.hero-image{
+  
+}
+.project-image{
 }
