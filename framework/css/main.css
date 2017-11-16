@@ -95,13 +95,22 @@ h3 {
   height: 4.5em;
 }
 
-.featured-work{
+.featured-work {
   height: 75px;
   padding-left: 10px;
 }
 
-.hero-image{
-  
+img {
+  max-width: 100%;
+  max-height: 100%;
 }
+
+.center-project-image{
+  padding-left: 1.9vw;
+  padding-right: 1.9vw;
+  max-width: 32%;
+}
+
 .project-image{
+  max-width: 32%;
 }
