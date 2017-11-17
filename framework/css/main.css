@@ -105,12 +105,27 @@ img {
   max-height: 100%;
 }
 
-.center-project-image{
+.center-project-image {
   padding-left: 1.9vw;
   padding-right: 1.9vw;
   max-width: 32%;
 }
 
-.project-image{
+.project-image {
   max-width: 32%;
+}
+
+.project-title {
+  font-size: 2em;
+  text-align: center;
+}
+
+.project-link {
+  text-align: center;
+  font-size: .75em;
+
+}
+a {
+    text-decoration: none;
+    color: inherit;
 }
