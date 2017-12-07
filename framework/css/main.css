@@ -105,13 +105,13 @@ img {
   max-height: 100%;
 }
 
-.center-project-image {
+.center {
   padding-left: 1.9vw;
   padding-right: 1.9vw;
   max-width: 32%;
 }
 
-.project-image {
+.side {
   max-width: 32%;
 }
 
